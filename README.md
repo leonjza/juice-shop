@@ -63,6 +63,7 @@ overview please visit the official project page:
 
 ## Setup
 
+
 > You can find some less common installation variations in
 > [the _Running OWASP Juice Shop_ documentation](https://pwning.owasp-juice.shop/part1/running.html).
 
